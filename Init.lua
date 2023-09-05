@@ -389,7 +389,7 @@
  Top_1.Position=UDim2.new(0.5, 0,0.119999997, 0)
  Top_1.Size=UDim2.new(0, 215,0, 25)
  Top_1.Font=Enum.Font.Gotham
- Top_1.Text="LInjector"
+ Top_1.Text="Menorzin"
  Top_1.TextColor3=Color3.fromRGB(255,255,255)
  Top_1.TextSize=14
  Top_1.TextXAlignment=Enum.TextXAlignment.Left
